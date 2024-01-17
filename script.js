@@ -32,3 +32,27 @@ function show1999(){
     image3.src="wilt/wilt3.jpg"
     image4.src="wilt/wilt5.webp"
 }
+
+function show1968(){
+    paragraph1.textContent= "In 1968, The Beatles embarked on a groundbreaking musical journey that would result in one of the most iconic and eclectic albums in the history of rock music – The White Album. This ambitious double album showcased the band's diverse musical influences and marked a departure from their earlier, more cohesive works. "
+    paragraph2.textContent= "The White Album was a departure from the psychedelic sound of their previous album, Sgt. Pepper's Lonely Hearts Club Band. The Beatles explored a wide range of genres, from rock and blues to folk and avant-garde, resulting in a collection of 30 songs that reflected the band's musical evolution."
+    paragraph3.textContent= "The dynamics within the band during the recording of The White Album were notably strained. Creative differences and personal conflicts arose, leading to instances of individual recording sessions rather than collaborative efforts."
+    paragraph4.textContent= "The album's minimalist cover design, featuring a plain white sleeve with embossed text, added to its mystique. Released in November 1968, The White Album received both critical acclaim and commercial success."
+
+    image1.src="beatles/beatles.jpg"
+    image2.src="beatles/beatles.webp"
+    image3.src="beatles/the-beatles-1.webp"
+    image4.src="beatles/beatles 2.webp"
+}
+
+function show1979(){
+    paragraph1.textContent= "The year 1979 marked the debut of two basketball legends, Magic Johnson and Larry Bird, both of whom would go on to reshape the landscape of the NBA. Magic Johnson was selected by the Los Angeles Lakers as the first overall pick in the NBA draft, while Larry Bird was chosen by the Boston Celtics with the sixth overall pick. "
+    paragraph2.textContent= "Magic and Bird's rookie seasons were nothing short of spectacular. Magic, with his charisma and versatility, led the Lakers to an NBA Championship in his debut year, earning himself the Finals MVP title. Meanwhile, Larry Bird showcased his scoring prowess and court vision, propelling the Celtics to a remarkable 32-game improvement from the previous season."
+    paragraph3.textContent= "The rivalry between Magic Johnson and Larry Bird reached its zenith during the 1980s, with both players leading their respective teams to multiple NBA Finals showdowns. The Lakers and the Celtics clashed in the Finals three times in four years (1984, 1985, and 1987), captivating basketball fans worldwide. The intense battles between Magic and Bird on the court fueled the Lakers-Celtics rivalry, turning it into a cultural phenomenon."
+    paragraph4.textContent= ""
+
+    image1.src="johnson/bird joh.jpg"
+    image2.src="beatles/beatles.webp"
+    image3.src="beatles/the-beatles-1.webp"
+    image4.src="beatles/beatles 2.webp"
+}
