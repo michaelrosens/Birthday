@@ -51,8 +51,8 @@ function show1979(){
     paragraph3.textContent= "The rivalry between Magic Johnson and Larry Bird reached its zenith during the 1980s, with both players leading their respective teams to multiple NBA Finals showdowns. The Lakers and the Celtics clashed in the Finals three times in four years (1984, 1985, and 1987), captivating basketball fans worldwide. The intense battles between Magic and Bird on the court fueled the Lakers-Celtics rivalry, turning it into a cultural phenomenon."
     paragraph4.textContent= ""
 
-    image1.src="johnson/bird joh.jpg"
-    image2.src="beatles/beatles.webp"
+    image1.src="johnson/bird johnson.jpg"
+    image2.src="johnson/bird johns.jpg"
     image3.src="beatles/the-beatles-1.webp"
     image4.src="beatles/beatles 2.webp"
 }

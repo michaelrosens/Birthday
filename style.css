@@ -49,6 +49,8 @@ p{
     opacity: 0.8;
 }
 
-.balls{
-he: 10px;
+
+.big{
+    width: 700px !important;
+    height: 600px !important;
 }
