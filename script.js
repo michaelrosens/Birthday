@@ -2,6 +2,7 @@ let paragraph1 = document.getElementById("paragraph1");
 let paragraph2 = document.getElementById("paragraph2");
 let paragraph3 = document.getElementById("paragraph3");
 let paragraph4 = document.getElementById("paragraph4");
+let sub = document.getElementById("subtext");
 let image1 = document.getElementById("img1");
 let image2 = document.getElementById("img2");
 let image3 = document.getElementById("img3");
@@ -46,6 +47,31 @@ function show1968(){
 }
 
 function show1979(){
+    paragraph1.textContent= "The year 1979 marked the debut of two basketball legends, Magic Johnson and Larry Bird, both of whom would go on to reshape the landscape of the NBA. Magic Johnson was selected by the Los Angeles Lakers as the first overall pick in the NBA draft, while Larry Bird was chosen by the Boston Celtics with the sixth overall pick. "
+    paragraph2.textContent= "Magic and Bird's rookie seasons were nothing short of spectacular. Magic, with his charisma and versatility, led the Lakers to an NBA Championship in his debut year, earning himself the Finals MVP title. Meanwhile, Larry Bird showcased his scoring prowess and court vision, propelling the Celtics to a remarkable 32-game improvement from the previous season."
+    paragraph3.textContent= "The rivalry between Magic Johnson and Larry Bird reached its zenith during the 1980s, with both players leading their respective teams to multiple NBA Finals showdowns. The Lakers and the Celtics clashed in the Finals three times in four years (1984, 1985, and 1987), captivating basketball fans worldwide. The intense battles between Magic and Bird on the court fueled the Lakers-Celtics rivalry, turning it into a cultural phenomenon."
+    paragraph4.textContent= ""
+
+    image1.src="johnson/bird johnson.jpg"
+    image2.src="johnson/bird.jpg"
+    image3.src="johnson/bird johns.jpg"
+    image4.src="johnson/bird.webp"
+}
+
+function show1978(){
+    paragraph1.textContent= "The year 1979 marked the debut of two basketball legends, Magic Johnson and Larry Bird, both of whom would go on to reshape the landscape of the NBA. Magic Johnson was selected by the Los Angeles Lakers as the first overall pick in the NBA draft, while Larry Bird was chosen by the Boston Celtics with the sixth overall pick. "
+    paragraph2.textContent= "Magic and Bird's rookie seasons were nothing short of spectacular. Magic, with his charisma and versatility, led the Lakers to an NBA Championship in his debut year, earning himself the Finals MVP title. Meanwhile, Larry Bird showcased his scoring prowess and court vision, propelling the Celtics to a remarkable 32-game improvement from the previous season."
+    paragraph3.textContent= "The rivalry between Magic Johnson and Larry Bird reached its zenith during the 1980s, with both players leading their respective teams to multiple NBA Finals showdowns. The Lakers and the Celtics clashed in the Finals three times in four years (1984, 1985, and 1987), captivating basketball fans worldwide. The intense battles between Magic and Bird on the court fueled the Lakers-Celtics rivalry, turning it into a cultural phenomenon."
+    paragraph4.textContent= ""
+
+    image1.src="johnson/bird johnson.jpg"
+    image2.src="johnson/bird.jpg"
+    image3.src="johnson/bird johns.jpg"
+    image4.src="johnson/bird.webp"
+}
+
+
+function show1977(){
     paragraph1.textContent= "The year 1979 marked the debut of two basketball legends, Magic Johnson and Larry Bird, both of whom would go on to reshape the landscape of the NBA. Magic Johnson was selected by the Los Angeles Lakers as the first overall pick in the NBA draft, while Larry Bird was chosen by the Boston Celtics with the sixth overall pick. "
     paragraph2.textContent= "Magic and Bird's rookie seasons were nothing short of spectacular. Magic, with his charisma and versatility, led the Lakers to an NBA Championship in his debut year, earning himself the Finals MVP title. Meanwhile, Larry Bird showcased his scoring prowess and court vision, propelling the Celtics to a remarkable 32-game improvement from the previous season."
     paragraph3.textContent= "The rivalry between Magic Johnson and Larry Bird reached its zenith during the 1980s, with both players leading their respective teams to multiple NBA Finals showdowns. The Lakers and the Celtics clashed in the Finals three times in four years (1984, 1985, and 1987), captivating basketball fans worldwide. The intense battles between Magic and Bird on the court fueled the Lakers-Celtics rivalry, turning it into a cultural phenomenon."
