@@ -52,7 +52,7 @@ function show1979(){
     paragraph4.textContent= ""
 
     image1.src="johnson/bird johnson.jpg"
-    image2.src="johnson/bird johns.jpg"
-    image3.src="beatles/the-beatles-1.webp"
-    image4.src="beatles/beatles 2.webp"
+    image2.src="johnson/bird.jpg"
+    image3.src="johnson/bird johns.jpg"
+    image4.src="johnson/bird.webp"
 }
