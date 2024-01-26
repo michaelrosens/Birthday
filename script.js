@@ -15,9 +15,9 @@ function show1492(){
     paragraph4.textContent= ""
 
  image1.src="columbus/1492.jpg"
- image2.src="columbus/1492.2.jpg"
- image3.src="columbus/1492.6.jpg"
- image4.src="columbus/1492.4.webp"
+ image2.src="columbus/colubmus.jpg"
+ image3.src="columbus/colombus.webp"
+ image4.src="columbus/chris.jpg"
 }
 
 
@@ -27,10 +27,10 @@ function show1999(){
     paragraph3.textContent= "Chamberlain's impact on the game extended beyond scoring records. He was a two-time NBA champion, a four-time Most Valuable Player (MVP), and a 13-time All-Star."
     paragraph4.textContent= "Wilt Chamberlain retired in 1973, leaving a lasting legacy as one of the greatest basketball players of all time."
 
-    image1.src="wilt/wilt1.webp"
-    image2.src="wilt/wilt22.webp"
-    image3.src="wilt/wilt3.jpg"
-    image4.src="wilt/wilt5.webp"
+    image1.src="wilt/wila.webp"
+    image2.src="wilt/wilt22.png"
+    image3.src="wilt/wilt3.webp"
+    image4.src="wilt/wilt5.jpg"
 }
 
 function show1968(){
@@ -40,9 +40,9 @@ function show1968(){
     paragraph4.textContent= "The album's minimalist cover design, featuring a plain white sleeve with embossed text, added to its mystique. Released in November 1968, The White Album received both critical acclaim and commercial success."
 
     image1.src="beatles/beatles.jpg"
-    image2.src="beatles/beatles.webp"
-    image3.src="beatles/the-beatles-1.webp"
-    image4.src="beatles/beatles 2.webp"
+    image2.src="beatles/beatle.jpg"
+    image3.src="beatles/bea.jpg"
+    image4.src="beatles/beat.jpg"
 }
 
 function show1979(){
@@ -52,9 +52,9 @@ function show1979(){
     paragraph4.textContent= "Magic Johnson, known for his exceptional passing ability and versatility, led the Lakers to five NBA championships during the 1980s. Larry Bird, renowned for his scoring prowess and basketball IQ, guided the Celtics to three NBA titles in the same period."
 
     image1.src="johnson/bird johnson.jpg"
-    image2.src="johnson/bird.jpg"
-    image3.src="johnson/bird johns.jpg"
-    image4.src="johnson/bird.webp"
+    image2.src="johnson/johns.jpg"
+    image3.src="johnson/als.webp"
+    image4.src="johnson/ds.jpg"
 }
 
 function show1978(){
@@ -63,8 +63,8 @@ function show1978(){
     paragraph3.textContent= "Beyond his achievements on the basketball court, Marko Jarić garnered significant public attention for his high-profile marriage to Brazilian supermodel Adriana Lima. The couple tied the knot in 2009, and their union became a topic of interest in celebrity and sports circles. Jarić and Lima's relationship was closely followed by the media, adding a glamorous touch to the athlete's public image."
     paragraph4.textContent= "Despite the attention to his personal life, Jarić continued to focus on his basketball career until he announced his retirement from professional play in 2013. Following his retirement, he explored various endeavors beyond basketball, showcasing his versatility and adaptability off the court."
 
-    image1.src="marko jaric/kob2.jpg"
-    image2.src="marko jaric/sam casssell.jpg"
-    image3.src="marko jaric/jaric.webp"
-    image4.src="marko jaric/jarc1.jpeg"
+    image1.src="marko jaric/jarci.jpg"
+    image2.src="marko jaric/akr.jpg"
+    image3.src="marko jaric/pol.jpg"
+    image4.src="marko jaric/jar.jpg"
 }
