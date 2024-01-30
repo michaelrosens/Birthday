@@ -51,7 +51,7 @@ function show1979(){
     paragraph3.textContent= "The rivalry between Magic Johnson and Larry Bird reached its zenith during the 1980s, with both players leading their respective teams to multiple NBA Finals showdowns. The Lakers and the Celtics clashed in the Finals three times in four years (1984, 1985, and 1987), captivating basketball fans worldwide."
     paragraph4.textContent= "Magic Johnson, known for his exceptional passing ability and versatility, led the Lakers to five NBA championships during the 1980s. Larry Bird, renowned for his scoring prowess and basketball IQ, guided the Celtics to three NBA titles in the same period."
 
-    image1.src="johnson/bird johnson.jpg"
+    image1.src="johnson/ma.jpg"
     image2.src="johnson/johns.jpg"
     image3.src="johnson/als.webp"
     image4.src="johnson/ds.jpg"
